@@ -1,0 +1,66 @@
+.navbar {
+    background-color: rgb(241, 241, 241);
+}
+
+ul.nav {
+    margin: 0 12% 0 12%;
+}
+
+li {
+    display: inline-block;
+}
+
+li.boxes>a>img {
+    border: 2px solid rgb(212, 212, 212);
+    padding: 10px;
+}
+
+.black {
+    background-color: black;
+    margin-top: -1%;
+}
+
+li.left {
+    padding-right: 20%;
+}
+
+li.rght {
+    margin: -100px 4px 10px 4px;
+}
+
+li>a {
+    color: white;
+    text-decoration: none;
+}
+
+.a2 {
+    background-color: black;
+    margin-top: -1.5%;
+}
+
+li.a1 {
+    padding-left: 10%;
+    margin: 0% 4% 0% 10%;
+    border: 2px solid rgb(148, 144, 144);
+    padding: 20px;
+}
+
+.a3>a>img {
+    width: 1400px;
+}
+
+.a4>a>img {
+    width: 1500px;
+}
+
+.a5>a>img {
+    width: 1500px;
+}
+
+.a6>a>img {
+    width: 1500px;
+}
+
+p {
+    text-align: center;
+}
